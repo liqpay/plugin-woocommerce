@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-12-27 15:07+0200\n"
+"PO-Revision-Date: 2024-01-02 14:43+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: .\n"
+
+#: liqpay.php:43
+msgid "Платіжний шлюз від LiqPay"
+msgstr "Payment gateway from LiqPay"
+
+#: liqpay.php:44
+msgid "Дозволяє здійснювати оплату через LiqPay"
+msgstr "Allows payment via LiqPay"
+
+#: liqpay.php:72
+msgid "Ввімкнений/Вимкнений"
+msgstr "Enabled/Disabled"
+
+#: liqpay.php:73
+msgid "Ввімкнути оплату через LiqPay"
+msgstr "Enable payment via LiqPay"
+
+#: liqpay.php:79
+msgid "Заголовок"
+msgstr "Title"
+
+#: liqpay.php:81
+msgid ""
+"Це те, що користувач побачить як назву методу оплати на сторінці оформлення "
+"замовлення."
+msgstr ""
+"This is what the user will see as the payment method name on the checkout "
+"page."
+
+#: liqpay.php:82
+msgid "Оплатити за допомогою LiqPay"
+msgstr "Pay with LiqPay"
+
+#: liqpay.php:86
+msgid "Опис"
+msgstr "Description"
+
+#: liqpay.php:88
+msgid ""
+"Опис цього методу оплати, який буде відображатися користувачеві на сторінці "
+"оформлення замовлення."
+msgstr ""
+"A description of this payment method that will be displayed to the user on "
+"the checkout page."
+
+#: liqpay.php:89
+msgid "Оплатіть за допомогою LiqPay легко та швидко."
+msgstr "Pay with LiqPay easily and quickly."
+
+#: liqpay.php:92
+msgid "Тестовий режим"
+msgstr "Test mode"
+
+#: liqpay.php:93
+msgid "Ввімкнути тестовий режим"
+msgstr "Enable test mode"
+
+#: liqpay.php:95
+msgid ""
+"Якщо ввімкнений тестовий режим, то платіж не буде здійснений, а лише "
+"перевірений."
+msgstr ""
+"If the test mode is enabled, the payment will not be made, but only checked."
+
+#: liqpay.php:96
+msgid "Так"
+msgstr "Yes"
+
+#: liqpay.php:100
+msgid "Тестовий публічный ключ"
+msgstr "Test public key"
+
+#: liqpay.php:104
+msgid "Тестовий приватний ключ"
+msgstr "Test private key"
+
+#: liqpay.php:108
+msgid "Публичний ключ"
+msgstr "Public key"
+
+#: liqpay.php:112
+msgid "Приватний ключ"
+msgstr "Privat key"
+
+#: liqpay.php:116
+msgid "Result URL"
+msgstr "Result URL"
+
+#: liqpay.php:118
+msgid ""
+"URL у Вашому магазині на який покупець буде переадресовано після завершення "
+"покупки."
+msgstr ""
+"The URL in your store to which the buyer will be redirected after "
+"completing the purchase."
+
+#: liqpay.php:123
+msgid "Server URL"
+msgstr "Server URL"
+
+#: liqpay.php:125
+msgid ""
+"URL у Вашому магазині на який буде відправлено повідомлення про статус "
+"платежу."
+msgstr ""
+"The URL in your store to which a payment status notification will be sent."
+
+#: liqpay.php:217
+#, php-format
+msgid "Замовлення %s"
+msgstr "Order %s"
